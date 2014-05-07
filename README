@@ -1,0 +1,3 @@
+I created two folders based on the two main server examples in The Node Beginner Book. There are screenshots in both folders for quick review.
+
+I used readFile in both examples to take the HTML out of the script.
